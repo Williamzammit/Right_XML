@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Aliens>
+     <Alien>
+          <x>0</x>
+          <y>0</y>
+          <alienName>Aiden</alienName>
+     </Alien>
+     <Alien>
+          <x>0</x>
+          <y>10</y>
+          <alienName>John</alienName>
+     </Alien>
+</Aliens>
